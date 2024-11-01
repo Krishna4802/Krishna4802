@@ -1,25 +1,6 @@
-# Project Name ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+## Hi there 👋
 
-> **Tagline** – A brief, catchy description.
-
-![Demo GIF](link-to-gif)
-
-## Overview
-A brief introduction explaining what the project is about, its purpose, and its main features.
-
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Getting Started
-Instructions to get the project up and running.
-
-## Installation
-Step-by-step installation guide.
-```shell
-# Sample code for installation
-npm install project-name
+https://img.shields.io/badge/LinkedIn-blue
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
