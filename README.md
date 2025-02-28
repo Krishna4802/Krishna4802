@@ -1,1 +1,1 @@
-![Quote](https://quotes-github-readme.vercel.app/api?border=true&type=vertical&ttheme=catppuccin_Frappe)
+![Quote](https://quotes-github-readme.vercel.app/api?border=true&type=Horizontal&ttheme=catppuccin_Frappe)
